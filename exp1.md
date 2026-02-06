@@ -20,7 +20,8 @@ To compare **Virtual Machines** and **Containers** by deploying **Nginx** on a V
 
 Install VirtualBox on your system to create and manage virtual machines.
 
-IMAGE HERE
+
+
 
 ---
 
@@ -29,7 +30,8 @@ IMAGE HERE
 Install Vagrant to manage and configure virtual machines easily.  
 Verify that Vagrant is installed properly after installation.
 
-IMAGE HERE
+![Screenshot](images/exp%201/a.png)
+
 
 ---
 
@@ -37,8 +39,10 @@ IMAGE HERE
 
 Initialize Vagrant with an Ubuntu box.  
 Start the virtual machine and access it using SSH.
+![Screenshot](images/exp%201/b.png)
+![Screenshot](images/exp%201/d.png)
+![Screenshot](images/exp%201/e.png)
 
-IMAGE HERE
 
 ---
 
@@ -47,7 +51,9 @@ IMAGE HERE
 Update the system and install Nginx inside the virtual machine.  
 Start the Nginx service after installation.
 
-IMAGE HERE
+![Screenshot](images/exp%201/f.png)
+![Screenshot](images/exp%201/g.png)
+![Screenshot](images/exp%201/i.png)
 
 ---
 
@@ -55,7 +61,8 @@ IMAGE HERE
 
 Check whether the Nginx server is running properly in the virtual machine.
 
-IMAGE HERE
+![Screenshot](images/exp%201/j.png)
+
 
 ---
 
@@ -63,7 +70,10 @@ IMAGE HERE
 
 Stop the running virtual machine and remove it when it is no longer needed.
 
-IMAGE HERE
+![Screenshot](images/exp%201/k.png)
+![Screenshot](images/exp%201/l.png)
+
+
 
 ---
 
@@ -71,7 +81,10 @@ IMAGE HERE
 
 Observe the resource usage such as memory, CPU, and system performance inside the virtual machine.
 
-IMAGE HERE
+
+
+
+
 
 ---
 
@@ -83,7 +96,8 @@ IMAGE HERE
 
 Install Windows Subsystem for Linux (WSL) on your system.
 
-IMAGE HERE
+![Screenshot](images/exp%201/m.png)
+
 
 ---
 
@@ -91,7 +105,8 @@ IMAGE HERE
 
 Install Ubuntu distribution using WSL.
 
-IMAGE HERE
+![Screenshot](images/exp%201/n.png)
+
 
 ---
 
@@ -100,7 +115,8 @@ IMAGE HERE
 Install Docker inside the WSL environment.  
 Start the Docker service and configure user permissions.
 
-IMAGE HERE
+![Screenshot](images/exp%201/o.png)
+
 
 ---
 
@@ -108,7 +124,8 @@ IMAGE HERE
 
 Run an Ubuntu container and deploy Nginx inside it.
 
-IMAGE HERE
+![Screenshot](images/exp%201/p.png)
+
 
 ---
 
@@ -116,7 +133,8 @@ IMAGE HERE
 
 Verify that the Nginx server is working properly inside the container.
 
-IMAGE HERE
+![Screenshot](images/exp%201/q.png)
+
 
 ---
 
@@ -124,7 +142,8 @@ IMAGE HERE
 
 Monitor the resource utilization of the running container.
 
-IMAGE HERE
+![Screenshot](images/exp%201/r.png)
+
 
 ---
 
