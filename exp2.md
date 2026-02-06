@@ -70,6 +70,9 @@ After deleting the image, try running the container again to check whether Docke
 
 Check the localhost port to verify that the Nginx server is running properly.
 
+![Screenshot](images/exp2/a.png)
+![Screenshot](images/exp2/b.png)
+![Screenshot](images/exp2/c.png)
 
 
 ---
