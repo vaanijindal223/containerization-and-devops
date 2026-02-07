@@ -4,5 +4,9 @@ Name : Vaani Jindal
 ### 📘 Lab Experiments
 
 👉 [Experiment 1](exp1.md)  
+
 👉 [Experiment 2](exp2.md)
+
+ 👉 [View Experiment 3](exp3.md)
+
 
