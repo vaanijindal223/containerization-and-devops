@@ -12,5 +12,5 @@ Name : Vaani Jindal
  👉 [Experiment 4 – Docker Essentials](exp4.md) 
 
  🔗 **C-D Theory (README):**  
-👉 [View C-D Theory Class Tasks](https://github.com/vaanijindal223/C-D-theory/blob/main/README.md)
+👉 [View C-D Theory Class Tasks](https://vaanijindal223.github.io/C-D-theory/)
 
