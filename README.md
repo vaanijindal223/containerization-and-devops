@@ -7,11 +7,13 @@ Name : Vaani Jindal
 
 👉 [Experiment 2](exp2.md)
 
- 👉 [View Experiment 3](exp3.md) 
+ 👉 [Experiment 3](exp3.md) 
 
- 👉 [Experiment 4 – Docker Essentials](exp4.md)  
+ 👉 [Experiment 4 ](exp4.md)  
 
   👉 [Experiment 5 ](exp5.md)  
+
+  👉 [Experiment 6 ](exp6.md)  
 
 
  🔗 **C-D Theory (README):**  
