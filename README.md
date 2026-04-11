@@ -15,6 +15,9 @@ Name : Vaani Jindal
 
   👉 [Experiment 6 ](exp6.md)  
 
+   👉 [Experiment 7 ](exp7.md)  
+
+
 
  🔗 **C-D Theory (README):**  
 👉 [View C-D Theory Class Tasks](https://vaanijindal223.github.io/C-D-theory/)
