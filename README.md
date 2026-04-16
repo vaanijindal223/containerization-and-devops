@@ -17,6 +17,9 @@ Name : Vaani Jindal
 
    👉 [Experiment 7 ](exp7.md)  
 
+   👉 [Experiment 9 ](exp9.md)  
+
+
 
 
  🔗 **C-D Theory (README):**  
